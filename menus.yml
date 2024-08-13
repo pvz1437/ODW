@@ -1,0 +1,12 @@
+TRIAL:
+  title: "&c试炼宝库"
+  slots:
+    0:
+      name: "&a信息"
+      lore:
+      - "第一行输入，剩下空位输出"
+      material: GREEN_STAINED_GLASS_PANE
+    9:
+      name: "&a进度"
+      material: GREEN_STAINED_GLASS_PANE
+      progressbar: true
